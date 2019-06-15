@@ -16,3 +16,4 @@ else if (num==i)
 else
     alert("You LOSE!");
 }
+
