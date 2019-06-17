@@ -7,10 +7,7 @@ else
 for(count=1;count<=10;count++)
 {
     let num = prompt ("Please enter your first guess  number:"); 
-    if (num<||num>100)
-    {
-        alert("Number out of range);
-              }
+
 if (num>i)
     alert("Number is higher than the random number, make another guess");
 else if (num<i)
